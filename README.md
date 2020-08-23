@@ -1,4 +1,4 @@
-# Nautilus Backend
+# Backend
 
 The application extracts data from an external resource(RabbitMq) about the current coordinate of buses and calculate the smooth path and estimate the next bus stop (time) on the map
 
