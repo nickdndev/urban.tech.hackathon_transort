@@ -1,0 +1,5 @@
+GET        /healthz        controllers.HealthzController.healthz
+
+
+GET        /path           controllers.TransportController.pathByIdAndRouteId(routeId: String,pathId:String)
+GET        /socket         controllers.TransportController.addLinkSocket
